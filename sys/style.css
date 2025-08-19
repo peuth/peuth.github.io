@@ -10,7 +10,8 @@ width: 1100px;
 margin: 0 auto;
 }
 .header {
-height: 100px;
+width: 1100px;
+height: 200px;
 background-image: url('./sys/shapqa.gif');
 background-repeat: no-repeat;
 background-position: center;
@@ -20,7 +21,8 @@ display: flex;
 }
 .sidebar {
 width: 200px;
-background-color: #f0f0f0;
+background-color: #eee;
+border: 1px solid #bbb;
 }
 .main-content {
 margin: 5px;
