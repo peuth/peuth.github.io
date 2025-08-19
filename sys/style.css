@@ -1,5 +1,5 @@
 body {
-background-image: url('/sys/bg.gif');
+background-image: url('./sys/bg.gif');
 background-repeat: repeat;
 margin: 0;
 padding: 0;
@@ -11,7 +11,7 @@ margin: 0 auto;
 }
 .header {
 height: 100px;
-background-image: url('/sys/shapqa.gif');
+background-image: url('./sys/shapqa.gif');
 background-repeat: no-repeat;
 background-position: center;
 }
